@@ -2,7 +2,14 @@
 <!-- git status -->
 <!-- git add <file name> or git add . -->
 <!-- git commit -m "some message" -->
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique quam perferendis dolorum amet, aliquid ipsum doloribus officiis expedita atque id. Consequatur ducimus minus facilis repudiandae, quae animi quas deleniti a.</p>
-
-<p>hi</p>
-<h1>12345</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Page</title>
+</head>
+<body>
+    <h1>Wellcome all</h1>
+</body>
+</html>
